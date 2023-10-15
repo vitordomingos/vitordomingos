@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil no GitHub!
 
-🚀 Sou um entusiasta da tecnologia apaixonado por explorar o vasto mundo do desenvolvimento de software. Estou constantemente em busca de desafios que me permitam expandir meus horizontes e aprender algo novo a cada dia.
+🚀 Sou um entusiasta da tecnologia apaixonado por explorar o vasto mundo do desenvolvimento de software. Estou constantemente em busca de desafios que me permitam expandir horizontes e aprender algo novo.
 
 💻 Atualmente curso Engenharia de Software e junto com a graduação, cursos separados para aprender as linguagens de programação. Desde então, venho acumulando um pouco de conhecimento, mas ainda me considero leigo no assunto.
 
